@@ -20,7 +20,7 @@
 <li>⭐ React-Query</li>
 
 # Ekran Görüntüsü 🎥
-<img src="hotel" width="auto">    
+<img src="hotel.gif" width="auto">    
 
 # İletişim 📩
 yunusemreoral@hotmail.com.tr
