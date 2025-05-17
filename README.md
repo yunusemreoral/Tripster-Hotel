@@ -3,7 +3,7 @@
 <li>Bu proje konaklama ve tatil rezervasyonu sitesidir. </li>
 <li>Konaklama için oteller ve otellere ait detay bilgileri mevcuttur.</li>
 <li>Aratılan otel için il,isim filtreleme entegre edilmiştir.</li>
-<li>Formu doldurarak konaklayacağınız yeri listesinize ekleyebilirsiniz.</li>
+<li>Formu doldurarak konaklayacağınız yeri listenize ekleyebilirsiniz.</li>
 <li>Kullanıcı dostu modern responsive tasarımı vardır.</li>
 
 # Kullanılan Teknolojiler 🎨
